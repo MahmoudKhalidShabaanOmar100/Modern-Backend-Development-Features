@@ -36,10 +36,13 @@
 - 01.2.2)**There Are Different Features Of The JRE:
 ---------------------------------------------------
 01.2.2.1)**JVM: It Refers To The Java Virtual Machine , It Is Mainly Used To Execute The Bytecode File Of Your Own Java Computer Programming Codes...
+
 ----------------------------------------------------
 01.2.2.2)**Java Class Libraries: It Contains Different Methods , And Classes...
+
 ----------------------------------------------------
 01.2.2.3)**Runtime Supporting Files: It Is Used To Run , Or Execute Your Own Java Computer Programming Codes...
+
 ----------------------------------------------------
 ![Java Runtime Environment](https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class2/HowToInstallJavaProgrammingLanguageImages/JRE.png)
 
