@@ -67,14 +67,14 @@ The Programming , And Programming Development Life Cycle (PDLC) Is The Process O
 --------------------------------------------------------------------------------------------
 > [!Important]
 > Algorithm Is A Step By Step Of Problem Solving Processes Of Your Own Java Computer Programming Codes...
-> <br />
+> <br /> <br />
 > PDLC Refers To The Programming Development Life Cycle...
-> <br />
+> <br /> <br />
 > PDLC , Or Programming Is A Process Of Problem Solving...
 -----------------------------------------------------------------------------------------------
 > [!Tip]
 > You Must Use , Or Modify The Problem Of Your Own Java Computer Programming Codes If The User Changes In The Problem By Adding Features , Or Removing Features...
-> <br />
+> <br /> <br />
 > To Sum Up , Then At The Frist You Must Think About The Problem , And Then Written Codes Of Your Own Java Computer Programming Codes...
 
 ![To Sum Up!](https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/Class1/IntroductionToProgramming/IntroductionToProgrammingImages/ThinkingThenWrittingCodes.png)
