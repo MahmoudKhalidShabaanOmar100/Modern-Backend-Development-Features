@@ -34,6 +34,7 @@
 </table>
 -------------------------------------------------------------------
 02.6)**Any Java Computer Programming Line Code Must End With Semicolon (;) , To Know Different Text Editors (IDEs) Like Visual Studio Code (VS Code) , NetBeans , Eclipise , And More That It Is The Ending Of The Java Computer Programming Code Line...
+--------------------------------------------------------------------
 <table>
   <tr>
     <td>
@@ -43,6 +44,7 @@
 </table>
 --------------------------------------------------------------------
 #### 02.7)**There Are Different Comments In The Java Computer Programming Language:
+------------------------------------------------------------------------------------
 - // : It Is Mainly Used To Make A Single Line Comment In Your Own Java Computer Programming Codes...
 - /**/ : It Is Mainly Used To Make A Multiple Lines Comments In Your Own Java Computer Programming Codes...
 - Any Comments Like Single Line Comment , Or Multiple Lines Comments Does Not Appear For Different Users Of Your Own Java Computer Programming Codes , But It Is Used As A Documentation For Different Users To Know The Main Purpose Of Using This Java Code Line For Different Users , And Others Developers...
