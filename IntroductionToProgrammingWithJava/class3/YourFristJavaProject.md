@@ -132,7 +132,7 @@
       <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class3/YourFristJavaProjectImages/LogicalError2.png" alt="Logical Error" />
     </td>
     <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class3/YourFristJavaProjectImages/LogicalError1.png" alt="Logical Error" />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class3/YourFristJavaProjectImages/RunTimeError2.png" alt="Logical Error" />
     </td>
   </tr>
 </table>
