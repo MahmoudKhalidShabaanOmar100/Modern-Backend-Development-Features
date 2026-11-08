@@ -33,7 +33,6 @@
   - Different Escape Characters , Or Escape Sequences Must Be Inside Single Quotations , Or Double Quotations To Tell Different Text Editors (IDEs) Like Visual Studio Code (VS Code) , NetBeans , Eclipise , Or ETC That It Is Not A Text But It Is A Formatting Escape Sequence Not An Original Text...
 
 <table>
-  <caption>Different Escape Characters , Or Different Escape Sequences...</caption>
   <tr>
     <td>
       <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class4/DisplayingOutputsImages/DisplayingDifferentEscapeCharacters1.png" />
@@ -43,7 +42,9 @@
     </td>
   </tr>
   <tr>
-    <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class4/DisplayingOutputsImages/DifferentEscapeExamples3.png" />
+    <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class4/DisplayingOutputsImages/DifferentEscapeExamples3.png" />
+    </td>
   </tr>
   <tr>
     <td>
