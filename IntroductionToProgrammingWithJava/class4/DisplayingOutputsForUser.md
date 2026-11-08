@@ -41,8 +41,8 @@
       <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class4/DisplayingOutputsImages/DisplayingDifferentEscapeCharacters2.png" />
     </td>
   </tr>
-  <tr>
-    <td style="width: 100%">
+  <tr >
+    <td width="100%">
                 <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class4/DisplayingOutputsImages/DifferentEscapeExamples3.png" />
     </td>
   </tr>
