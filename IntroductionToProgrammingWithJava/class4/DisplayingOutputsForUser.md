@@ -31,7 +31,13 @@
     - "\'" , Or '\'': Single Quotations , It Is Mainly Used To Print A Single Quotations In Your Own Java Computer Programming Codes...
     - "\r" , Or '\r': Carriage Return , It Is Mainly Used To Position The Screen Cursor To The Begging Of The Current Line , Not Advance To The Next Line...
   - Different Escape Characters , Or Escape Sequences Must Be Inside Single Quotations , Or Double Quotations To Tell Different Text Editors (IDEs) Like Visual Studio Code (VS Code) , NetBeans , Eclipise , Or ETC That It Is Not A Text But It Is A Formatting Escape Sequence Not An Original Text...
-
+<table>
+    <tr >
+    <td>
+                <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class4/DisplayingOutputsImages/DifferentEscapeExamples3.png" />
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td>
@@ -39,11 +45,6 @@
     </td>
     <td>
       <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class4/DisplayingOutputsImages/DisplayingDifferentEscapeCharacters2.png" />
-    </td>
-  </tr>
-  <tr >
-    <td width="100%">
-                <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class4/DisplayingOutputsImages/DifferentEscapeExamples3.png" />
     </td>
   </tr>
   <tr>
