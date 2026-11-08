@@ -42,7 +42,9 @@
     </td>
   </tr>
   <tr>
-          <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class4/DisplayingOutputsImages/DifferentEscapeExamples3.png" />
+    <td>
+                <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class4/DisplayingOutputsImages/DifferentEscapeExamples3.png" />
+    </td>
   </tr>
   <tr>
     <td>
