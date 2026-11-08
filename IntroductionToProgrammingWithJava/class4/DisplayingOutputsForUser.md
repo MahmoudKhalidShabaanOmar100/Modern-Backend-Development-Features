@@ -42,10 +42,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
           <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class4/DisplayingOutputsImages/DifferentEscapeExamples3.png" />
-    </td>
-    <td></td>
   </tr>
   <tr>
     <td>
