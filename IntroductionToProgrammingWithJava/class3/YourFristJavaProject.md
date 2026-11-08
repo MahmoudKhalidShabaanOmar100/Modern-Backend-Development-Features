@@ -92,8 +92,9 @@
 
   - Java Computer Programming Error Refers To Different Programming Errors That Returning By The Text Editor (IDE) Like Visual Studio Code (VS Code) , NetBeans , Or ETC...
 -------------------------------------------------------------------------------
-  - There Are Different Types Of The Programming Errors Like:
-      - Syntax Error: It Is A Type Of Programming Errors That Detected By The Compiler Like Visual Studio Code (VS Code) , NetBeans , Or ETC Like Forgot Semicolon (;) At The End Of Any Java Line Code , Forget The Closing Brackets At The End Of Any Class } , Or ETC...
+- There Are Different Types Of The Programming Errors Like:
+
+- Syntax Error: It Is A Type Of Programming Errors That Detected By The Compiler Like Visual Studio Code (VS Code) , NetBeans , Or ETC Like Forgot Semicolon (;) At The End Of Any Java Line Code , Forget The Closing Brackets At The End Of Any Class } , Or ETC...
 
 <table>
   <tr>
@@ -108,7 +109,8 @@
     </td>
   </tr>
 </table>
-      - Runtime Error: It Is A Type Of Programming Errors That Causes Your Own Java Computer Programming Codes To Abort Like Dividing The Number By Zero , Dividing By Negative Number Or ETC...
+      
+- Runtime Error: It Is A Type Of Programming Errors That Causes Your Own Java Computer Programming Codes To Abort Like Dividing The Number By Zero , Dividing By Negative Number Or ETC...
 
 <table>
   <tr>
@@ -120,8 +122,9 @@
     </td>
   </tr>
 </table>
-      - Logical Error: It Is A Type Of Programming Errors That Produces Incorrect Result Of Your Own Java Computer Programming Codes...
-   
+
+- Logical Error: It Is A Type Of Programming Errors That Produces Incorrect Result Of Your Own Java Computer Programming Codes...
+
 <table>
   <caption>The Result Of This Program Should Be 3.3333333333 , Not Integer 3....</caption>
   <tr>
