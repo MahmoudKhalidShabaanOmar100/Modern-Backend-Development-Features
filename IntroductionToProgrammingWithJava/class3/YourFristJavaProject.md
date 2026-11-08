@@ -32,9 +32,7 @@
     </td>
   </tr>
 </table>
--------------------------------------------------------------------
 02.6)**Any Java Computer Programming Line Code Must End With Semicolon (;) , To Know Different Text Editors (IDEs) Like Visual Studio Code (VS Code) , NetBeans , Eclipise , And More That It Is The Ending Of The Java Computer Programming Code Line...
---------------------------------------------------------------------
 <table>
   <tr>
     <td>
@@ -42,9 +40,7 @@
     </td>
   </tr>
 </table>
---------------------------------------------------------------------
 #### 02.7)**There Are Different Comments In The Java Computer Programming Language:
-------------------------------------------------------------------------------------
 - // : It Is Mainly Used To Make A Single Line Comment In Your Own Java Computer Programming Codes...
 - /**/ : It Is Mainly Used To Make A Multiple Lines Comments In Your Own Java Computer Programming Codes...
 - Any Comments Like Single Line Comment , Or Multiple Lines Comments Does Not Appear For Different Users Of Your Own Java Computer Programming Codes , But It Is Used As A Documentation For Different Users To Know The Main Purpose Of Using This Java Code Line For Different Users , And Others Developers...
@@ -55,7 +51,6 @@
     </td>
   </tr>
 </table>
----------------------------------------------------------------------
 02.8)**Java Programming Language Is A Case Sensitive Programming Language , This Means That The Java Programming Language Is Affected By The Capital Letters , Or Small Letters...
 <table>
   <tr>
@@ -67,7 +62,6 @@
     </td>
   </tr>
 </table>
----------------------------------------------------------------------
 #### 02.9)**What Is The Processing Of Your Own Java Computer Programming Codes?
   - 02.9.1)**Create The Source Codes Of Your Own Java Computer Programming Codes (File.java)...
   - 02.9.2)**Saved The Source Codes Of Your Own Java Computer Programming Codes On The Disk...
@@ -84,7 +78,6 @@
     </td>
   </tr>
 </table>
------------------------------------------------------------------------
 #### 02.10)**What Is Different Java Computer Programming Errors?
   - Java Computer Programming Error Refers To Different Programming Errors That Returning By The Text Editor (IDE) Like Visual Studio Code (VS Code) , NetBeans , Or ETC...
   - There Are Different Types Of The Programming Errors Like:
@@ -103,7 +96,6 @@
     </td>
   </tr>
 </table>
---------------------------------------------------------------
       - Runtime Error: It Is A Type Of Programming Errors That Causes Your Own Java Computer Programming Codes To Abort Like Dividing The Number By Zero , Dividing By Negative Number Or ETC...
 
 <table>
@@ -116,7 +108,6 @@
     </td>
   </tr>
 </table>
---------------------------------------------------------------------------
       - Logical Error: It Is A Type Of Programming Errors That Produces Incorrect Result Of Your Own Java Computer Programming Codes...
    
 <table>
@@ -130,8 +121,6 @@
     </td>
   </tr>
 </table>
-  
----------------------------------------------------------------------------
 <table>
   <tr>
     <td>
@@ -146,7 +135,6 @@
     </td>
   </tr>
 </table>
-------------------------------------------------------------------------------
 <table>
   <tr>
     <td>
