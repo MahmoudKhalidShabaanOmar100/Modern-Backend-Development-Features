@@ -32,7 +32,9 @@
     </td>
   </tr>
 </table>
+
 02.6)**Any Java Computer Programming Line Code Must End With Semicolon (;) , To Know Different Text Editors (IDEs) Like Visual Studio Code (VS Code) , NetBeans , Eclipise , And More That It Is The Ending Of The Java Computer Programming Code Line...
+
 <table>
   <tr>
     <td>
@@ -40,10 +42,15 @@
     </td>
   </tr>
 </table>
+
 #### 02.7)**There Are Different Comments In The Java Computer Programming Language:
+
 - // : It Is Mainly Used To Make A Single Line Comment In Your Own Java Computer Programming Codes...
+--------------------------------------------------------------------------------------
 - /**/ : It Is Mainly Used To Make A Multiple Lines Comments In Your Own Java Computer Programming Codes...
+---------------------------------------------------------------------------------------
 - Any Comments Like Single Line Comment , Or Multiple Lines Comments Does Not Appear For Different Users Of Your Own Java Computer Programming Codes , But It Is Used As A Documentation For Different Users To Know The Main Purpose Of Using This Java Code Line For Different Users , And Others Developers...
+----------------------------------------------------------------------------------------
 <table>
   <tr>
     <td>
@@ -62,7 +69,9 @@
     </td>
   </tr>
 </table>
+
 #### 02.9)**What Is The Processing Of Your Own Java Computer Programming Codes?
+
   - 02.9.1)**Create The Source Codes Of Your Own Java Computer Programming Codes (File.java)...
   - 02.9.2)**Saved The Source Codes Of Your Own Java Computer Programming Codes On The Disk...
       - Source Codes Of Your Own Java Computer Programming Codes Developed By The Developer...
@@ -78,8 +87,11 @@
     </td>
   </tr>
 </table>
+
 #### 02.10)**What Is Different Java Computer Programming Errors?
+
   - Java Computer Programming Error Refers To Different Programming Errors That Returning By The Text Editor (IDE) Like Visual Studio Code (VS Code) , NetBeans , Or ETC...
+-------------------------------------------------------------------------------
   - There Are Different Types Of The Programming Errors Like:
       - Syntax Error: It Is A Type Of Programming Errors That Detected By The Compiler Like Visual Studio Code (VS Code) , NetBeans , Or ETC Like Forgot Semicolon (;) At The End Of Any Java Line Code , Forget The Closing Brackets At The End Of Any Class } , Or ETC...
 
