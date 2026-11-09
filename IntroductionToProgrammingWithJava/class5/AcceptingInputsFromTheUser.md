@@ -86,17 +86,20 @@
     </tr>
   </tbody>
 </table>
------------------------------------------------------------------
 
 >[!Important]
 >The Value Of The Boolean Data Type Can Be One Of Only Two Values True (If The Condition Is TRUE) , Or False (If The Condition Is FALSE)...
+><br /><br />
 >The Variable In Any Java Computer Programming Codes Must Be A Descriptive Variable Name...
+><br /><br />
 >The Most Common Method Of The Variable Name In Your Own Java Computer Programming Codes Is A camelCaseMethod...
 
 -----------------------------------------------------------------
 >[!Tip]
 >You Can Declare The Variable Without Initializing The Variable...
+><br /><br />
 >You Must Declare The Variable At The Frist Before Initializing The Variable...
+><br /><br />
 >You Can Declare , And Initialize The Variable With Data Type , Name , And Initial Value In The Same Line...
 ------------------------------------------------------------------
 >[!Warning]
