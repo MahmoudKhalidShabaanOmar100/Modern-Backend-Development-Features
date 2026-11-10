@@ -100,10 +100,10 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
         <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/DifferentDataTypes.png" />
       </td>
-      <td>
+      <td colspan="2">
         <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/DifferentDataTypesOutputs.png" />
       </td>
     </tr>
