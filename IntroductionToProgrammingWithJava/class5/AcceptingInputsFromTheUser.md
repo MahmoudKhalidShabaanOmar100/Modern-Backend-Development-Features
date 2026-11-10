@@ -134,13 +134,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/AreaOfRectangle.png" />
+      <img width="500px" src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/AreaOfRectangle.png" />
     </td>
     <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/RectangleArea.png" />
+      <img width="500px" src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/RectangleArea.png" />
     </td>
     <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/RectangleAreaOutput.png" />
+      <img width="500px" src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/RectangleAreaOutput.png" />
     </td>
   </tr>
 </table>
