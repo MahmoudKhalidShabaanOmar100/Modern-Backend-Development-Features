@@ -8,6 +8,14 @@
 -----------------------------------------------------------------
   - Scanner: It Is A Java Class From The util Package From The java Package , It Is Mainly Used To Get A Scanner From The Input..
 -----------------------------------------------------------------
+
+<table>
+  <tr>
+    <td><img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/AcceptingInputsFromTheUser.png" /></td>
+  </tr>
+</table>
+
+-----------------------------------------------------------------
 #### 4.1.2)**Create A Location To Store The Input That Gets From The User In The Memory , It Is Called Variable...
   - Variable: It Is A Location In The Computer Memory's Where The Value Can Be Stored For Used By The Java Computer Programming Codes...
     - Variable Initialization: It Is Mainly Used To Initialize The Variable With Initial Value...
@@ -19,6 +27,13 @@
       - Camal Case: It Is Mainly Separated By Different Words In The Same Variable Name By Making The Frist Letter Of Any Words As A Capital Letter Else The Frist Word , It Is The Best Case In The Java Programming Language... Like fristUserName , userAge...
       - Pascal Case: It Is Mainly Separated By Different Words In The Same Variable Name By Making The Frist Letter Of An Words As A Capital Letter Like FristUserName , UserAge...
       - Upper Snake Case: It Is Mainly Separated Different Words In The Same Variable Name By Making All Characters As A Capital Letters , And Separated By Each Words By Using Under Sccoer Like FRIST_USER_Name , USER_AGE...
+
+<table>
+  <tr>
+    <td><img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/DeclarationAndInitializationVariables.png" /></td>
+  </tr>  
+</table>
+
 -----------------------------------------------------------------
 #### 4.1.3)**Determine The Data Type Of The Variable Name Between Different Data Types From The Java Programming Language Like:
 <table>
@@ -84,6 +99,14 @@
         <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/DifferentJavaDataTypes.png" />
       </td>
     </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/DifferentDataTypes.png" />
+      </td>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/DifferentDataTypesOutputs.png" />
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -105,3 +128,50 @@
 >[!Warning]
 >You Should Know That The Frist Letter Of The Scanner Class Must Be A Capital Letter.
 -------------------------------------------------------------------------------------
+
+#### Example 1: Rectangle Area:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/AreaOfRectangle.png" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/RectangleArea.png" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/RectangleAreaOutput.png" />
+    </td>
+  </tr>
+</table>
+
+-------------------------------------------------------------------------------------------
+#### Example 2: Sum Of Two Integer Numbers: 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/AreaAndParameterOfSquare.png" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/SumOfTwoIntegerNumbers.png" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/ResultOfSumOfTwoIntegerNumbers.png" />
+    </td>
+  </tr>
+</table>
+
+----------------------------------------------------------------------------------------------
+#### Example 3: Square Area And Perimeter:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/SquareAreaAndPerimeterOutput.png" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/SquareAreaAndPerimeter.png" />
+    </td>
+  </tr>
+</table>
