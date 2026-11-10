@@ -81,7 +81,7 @@
     </tr>
     <tr>
       <td colspan="4">
-        <img src="" />
+        <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class5/AcceptingInputsFromDifferentUsersImages/DifferentJavaDataTypes.png" />
       </td>
     </tr>
   </tbody>
