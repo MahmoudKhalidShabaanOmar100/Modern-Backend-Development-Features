@@ -1,5 +1,5 @@
-# Problem Solving With JAVA Problem Solving:
+# Problem Solving With JAVA Programming Language:
 
 There Is The Folder That Contains Different Java Problem Solving With Different Levels From The Edabit Problem Solving Website...
 
-![EdabitJavaProblems](https://edabit.com/challenges/java)
+[!EdabitJavaProblems](https://edabit.com/challenges/java)
