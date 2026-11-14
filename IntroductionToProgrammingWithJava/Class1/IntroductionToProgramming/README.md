@@ -91,7 +91,13 @@ The Programming , And Programming Development Life Cycle (PDLC) Is The Process O
 > <br /> <br />
 > To Sum Up , Then At The Frist You Must Think About The Problem , And Then Written Codes Of Your Own Java Computer Programming Codes...
 
-![To Sum Up!](https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/Class1/IntroductionToProgramming/IntroductionToProgrammingImages/ThinkingThenWrittingCodes.png)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/Class1/IntroductionToProgramming/IntroductionToProgrammingImages/ThinkingThenWrittingCodes.png" width="400" alt="To Sum Up Image..." />
+    </td>
+  </tr>
+</table>
 
 -------------------------------------------------------------------------------------------------
 > [!Warning]
