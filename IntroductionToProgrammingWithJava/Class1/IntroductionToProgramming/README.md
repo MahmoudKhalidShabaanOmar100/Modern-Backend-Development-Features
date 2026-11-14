@@ -5,7 +5,7 @@ The Programming , And Programming Development Life Cycle (PDLC) Is The Process O
 
 ---------------------------------------------------------------------------------------------------------------------
 
-<table style="margin-inline: auto;">
+<table align="center">
   <tr>
     <td>
       <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/Class1/IntroductionToProgramming/IntroductionToProgrammingImages/IntroudctionToProgrammingImage.png" alt="Introduction To Programming Language..." width="600"/>
