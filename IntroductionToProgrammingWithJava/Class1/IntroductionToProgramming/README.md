@@ -59,17 +59,23 @@ The Programming , And Programming Development Life Cycle (PDLC) Is The Process O
     <td>
       <strong>Programming Development Life Cycle...</strong>
       <br />
-      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/Class1/IntroductionToProgramming/IntroductionToProgrammingImages/ProgramDevelopementLifeCycleImage1.png" alt="Programming Development Life Cycle..." />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/Class1/IntroductionToProgramming/IntroductionToProgrammingImages/ProgramDevelopementLifeCycleImage1.png" alt="Programming Development Life Cycle..." width="500" />
     </td>
     <td>
       <strong>Programming Development Life Cycle...</strong>
       <br />
-      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/Class1/IntroductionToProgramming/IntroductionToProgrammingImages/ProgramDevelopementLifeCycleImage2.png" alt="Programming Development Life Cycle..." />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/Class1/IntroductionToProgramming/IntroductionToProgrammingImages/ProgramDevelopementLifeCycleImage2.png" alt="Programming Development Life Cycle..." width="500" />
     </td>
   </tr>
 </table>
 
-![Rectangle Area](https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/Class1/IntroductionToProgramming/IntroductionToProgrammingImages/RectangleAreaExample.png)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/Class1/IntroductionToProgramming/IntroductionToProgrammingImages/RectangleAreaExample.png" alt="Rectangle Area..." width="600"/>
+    </td>
+  </tr>
+</table>
 
 --------------------------------------------------------------------------------------------
 > [!Important]
