@@ -51,27 +51,27 @@
     <td>
       <strong>Java Virtual Machine...</strong>
       <br />
-      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class2/HowToInstallJavaProgrammingLanguageImages/JVM.png" />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class2/HowToInstallJavaProgrammingLanguageImages/JVM.png" width="500" />
     </td>
     <td>
       <strong>Java Runtime Environment...</strong>
       <br />
-      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class2/HowToInstallJavaProgrammingLanguageImages/JRE.png" />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class2/HowToInstallJavaProgrammingLanguageImages/JRE.png" width="500" />
     </td>
     <td>
       <strong>Java Development Kit...</strong>
       <br />
-      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class2/HowToInstallJavaProgrammingLanguageImages/JDK.png" />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class2/HowToInstallJavaProgrammingLanguageImages/JDK.png" width="500" />
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class2/HowToInstallJavaProgrammingLanguageImages/01-InstallTheJavaLanguage1.png" height="500px" />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class2/HowToInstallJavaProgrammingLanguageImages/01-InstallTheJavaLanguage1.png" width="500"/>
     </td>
     <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class2/HowToInstallJavaProgrammingLanguageImages/02-InstallTheJavaLanguage2.png" height="500px" />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Backend-Development-Features/blob/main/IntroductionToProgrammingWithJava/class2/HowToInstallJavaProgrammingLanguageImages/02-InstallTheJavaLanguage2.png" width="500" />
     </td>
   </tr>
 </table>
